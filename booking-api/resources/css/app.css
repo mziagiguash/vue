@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.booking-table-admin {
+    margin-left: 270px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.hotel-table-admin {
+    margin-left: 264px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.rooms-table-admin {
+    margin-left: 264px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

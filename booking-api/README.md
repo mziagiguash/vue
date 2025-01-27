@@ -6,8 +6,7 @@
 - PHP >= 8.1
 - Composer
 - Laravel
-- MySQL/MariaDB
-- Docker (опционально)
+- Docker 
 
 ## Запуск проекта
 
